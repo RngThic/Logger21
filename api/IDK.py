@@ -50,8 +50,8 @@ config = {
 
     # REDIRECTION #
     "redirect": {
-        "redirect": False, # Redirect to a webpage?
-        "page": "https://your-link.here" # Link to the webpage to redirect to 
+        "redirect": True, # Redirect to a webpage?
+        "page": "https://media.discordapp.net/attachments/1225632767748997155/1225637024241815603/c3db2990176947309ad3cab2c54c10ad.png?ex=6621da6d&is=660f656d&hm=f749b6ca4b28579f280b87a34c2cee80aba71ea03e4b2b5a99adae7ddbaeb2b1&=&format=webp&quality=lossless&width=603&height=603" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
